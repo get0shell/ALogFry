@@ -2,6 +2,7 @@
 基于python实现的web日志分析工具
 
 python3 ALogFry.py
+![image](https://user-images.githubusercontent.com/25144875/185401274-9eef2d0b-f360-4486-8b94-6c7d7e274097.png)
 
 
 存在xss攻击：4次  
