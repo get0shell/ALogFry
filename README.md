@@ -1,8 +1,7 @@
 # ALogFry
 基于python实现的web日志分析工具
 
-注：  
-同目录下新建一个logs目录，存放需要分析的日志文件  
+注：  同目录下新建一个logs目录，存放需要分析的日志文件  
 
 程序运行：  
 python3 ALogFry.py
